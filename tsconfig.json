@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@sentry/core": ["node_modules/@sentry/core/dist/index.d.ts"],
+      "@sentry/types": ["node_modules/@sentry/types/dist/index.d.ts"],
+      "@sentry/utils": ["node_modules/@sentry/utils/dist/index.d.ts"]
+    }
+  },
+  "include": ["./src/offline.ts"]
+}
