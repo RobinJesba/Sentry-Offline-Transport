@@ -5,7 +5,7 @@
   "main": "src/offline.ts",
   "scripts": {
     "build": "webpack && npm run rename",
-    "rename": "mv ./dist/offline.js.br ./dist/offline.js",
+    "rename": "mv ./dist/sentry-offline.js.br ./dist/sentry-offline.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

@@ -6,7 +6,7 @@ module.exports = {
   mode: 'production',
   entry: './src/offline.ts',
   output: {
-    filename: 'offline.js',
+    filename: 'sentry-offline.js',
     path: path.resolve(__dirname, 'dist'),
     library: "SentryOffline"
   },
