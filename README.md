@@ -7,7 +7,7 @@ npm run build
 
 ### Usage
 ```javascript
-<script src="https://***/offline.js"></script>
+<script src="https://***/sentry-offline.js"></script>
 
 <script
     src="https://browser.sentry-cdn.com/7.112.0/bundle.tracing.min.js" 
