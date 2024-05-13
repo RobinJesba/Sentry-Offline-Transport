@@ -11,7 +11,7 @@ npm run build
 
 <script
     src="https://browser.sentry-cdn.com/7.112.0/bundle.tracing.min.js" 
-    integrity="sha384-tO75tve7J2TREkwVp2rTFtji0/60csVvU8RcjND4Td2p9vwwqZg4cJl6b60cfIJn" 
+    integrity="sha384-Kl6Y90+qOGXFISnB2uX+f/+fgueW0VdsRWpEh9wXsTacad+zDLgOWNjgiqsgYO5i" 
     crossorigin="anonymous"
 ></script>
 
